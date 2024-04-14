@@ -1,0 +1,6 @@
+28.1
+	1. You've been travelling all day. You must be tired.
+	2. That restaurant must be very good. It's always full of people.
+	3. That restaurant can't be very good. It's always empty.
+	4. I'm sure Kate gave me her address. I must have it somewhere
+	5. I often see that man in this street. He must live near here
