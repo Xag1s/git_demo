@@ -4,3 +4,9 @@
 	3. That restaurant can't be very good. It's always empty.
 	4. I'm sure Kate gave me her address. I must have it somewhere
 	5. I often see that man in this street. He must live near here
+	6. It rained every day during their holiday. It can't have been very nice for them.
+	7. Congratulations on passing your exam. You must be very pleased.
+	8. This bill can't be correct. It's much too high.
+	9. You got here very quickly. You must have driven very fast.
+	10. Bill and Sue always stay at five-star hotels. They can't be short of money.
+	11. Karen hasn't left the office yet. She must be working late tonight.
